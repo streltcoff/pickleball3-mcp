@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gospodindark-stack/pickleball3-mcp.git"
+    "url": "git+https://github.com/streltcoff/pickleball3-mcp.git"
   },
   "homepage": "https://pickleball3.com/api/",
   "bugs": {
-    "url": "https://github.com/gospodindark-stack/pickleball3-mcp/issues"
+    "url": "https://github.com/streltcoff/pickleball3-mcp/issues"
   },
   "license": "MIT"
 }
